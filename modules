@@ -1,0 +1,20 @@
+➜  bpm2 git:(master) npm list
+npm-getting-started@1.0.0 /home/antoine/Quests/NodeEquests/bpm2
+├── cahlk@0.0.1-security
+├─┬ chalk@4.1.0
+│ ├─┬ ansi-styles@4.2.1
+│ │ ├── @types/color-name@1.1.1
+│ │ └─┬ color-convert@2.0.1
+│ │   └── color-name@1.1.4
+│ └─┬ supports-color@7.2.0
+│   └── has-flag@4.0.0
+└─┬ cowsay@1.4.0
+  ├── get-stdin@5.0.1
+  ├─┬ optimist@0.6.1
+  │ ├── minimist@0.0.10
+  │ └── wordwrap@0.0.3
+  ├─┬ string-width@2.1.1
+  │ ├── is-fullwidth-code-point@2.0.0
+  │ └─┬ strip-ansi@4.0.0
+  │   └── ansi-regex@3.0.0
+  └── strip-eof@1.0.0
